@@ -45,7 +45,7 @@ Realidad Aumentada, gamificación, sistemas de tiempo dinámicos, juegos como Do
 
 ---
 
-## Idiomas
-- Inglés (funcional)  
-- Francés (básico)  
-- Japonés (básico)
+## Otros idiomas a nivel vasico
+- Inglés 
+- Francés 
+- Japonés 

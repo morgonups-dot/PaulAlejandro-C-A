@@ -1,65 +1,67 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Currículum - Paul Castedo</title>
-<style>
-  body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; background: #f9f9f9; color: #333;}
-  h1, h2 { color: #007acc; }
-  section { margin-bottom: 25px; padding: 15px; background: white; border-radius: 8px; box-shadow: 0 0 8px #ddd;}
-  ul { list-style: none; padding: 0; }
-  li { margin-bottom: 10px; }
-  a {color: #007acc;}
-</style>
-</head>
-<body>
-<h1>Paul Alejandro Castedo Arteaga</h1>
-<p><strong>Ubicación:</strong> Santa Cruz de la Sierra, Bolivia<br />
-<strong>Correo:</strong> <a href="mailto:morgon.ups@gmail.com">morgon.ups@gmail.com</a></p>
+# Paul Alejandro Castedo Arteaga
 
-<section>
-<h2>Objetivo profesional</h2>
-<p>Desarrollar y lanzar la fase beta de un videojuego RPG con enfoque en Realidad Aumentada e IA tiempo real, y crear empresa de videojuegos en Bolivia.</p>
-</section>
+📍 Santa Cruz de la Sierra, Bolivia  
+✉️ morgon.ups@gmail.com
 
-<section>
-<h2>Formación académica</h2>
-<ul>
-<li>Estudiante último semestre, Universidad Domingo Savio.</li>
-<li>Autoformación con YouTube, GitHub y páginas web.</li>
-</ul>
-</section>
+---
 
-<section>
-<h2>Experiencia y proyectos</h2>
-<ul>
-<li>Proyecto survival 2D en Unity con sistema de niveles inspirado en Magic Survival.</li>
-<li>Juego RPG de RA para Android con objetos 3D y sistema de hechizos.</li>
-<li>Desarrollo y modificación de servidores/mods en Minecraft.</li>
-<li>Aplicaciones móviles para profesores con gestión académica personalizada.</li>
-<li>Soporte tecnológico a familia y profesores.</li>
-</ul>
-</section>
+## Resumen profesional
+Desarrollador de videojuegos y aplicaciones con interés en Realidad Aumentada e Inteligencia Artificial en tiempo real. Objetivo: lanzar la fase beta de un RPG con RA/IA y crear una empresa de videojuegos en Bolivia. Enfocado en prototipos rápidos, sistemas de juego (inventarios, hechizos) y soluciones móviles.
 
-<section>
-<h2>Habilidades técnicas</h2>
-<ul>
-<li>Lenguajes: PHP, C#, SQL, HTML, CSS, C++, JavaScript.</li>
-<li>Herramientas: Unity, Visual Studio, VSCode, GitHub Desktop, XAMPP, SQL Server, Ngrok, Vuforia, CheatEngine.</li>
-<li>Desarrollo videojuegos, sistemas de inventarios, sitios web para comunidades gamers.</li>
-</ul>
-</section>
+---
 
-<section>
-<h2>Intereses</h2>
-<p>Realidad Aumentada, gamificación, cuarta dimensión (tiempo), juegos Dota 2, Kenshi, Factorio. Promotor de actividad física.</p>
-</section>
+## Formación
+- Estudiante (último semestre) — Universidad Domingo Savio.  
+- Autoformación: cursos y tutoriales en YouTube, proyectos en GitHub y documentación online.
 
-<section>
-<h2>Idiomas</h2>
-<p>Inglés, Francés, Japonés (nivel básico).</p>
-</section>
+---
 
-</body>
-</html>
+## Experiencia & proyectos destacados
+- Proyecto survival 2D en Unity con sistema de niveles (inspirado en Magic Survival).  
+- Juego RPG de Realidad Aumentada para Android con modelos 3D y sistema de hechizos.  
+- Desarrollo y modificación de servidores/mods en Minecraft.  
+- Aplicaciones móviles para gestión académica personalizada para profesores.  
+- Soporte tecnológico y formación a familiares y docentes.
+
+---
+
+## Habilidades técnicas
+- Lenguajes: C#, C++, PHP, SQL, JavaScript, HTML, CSS.  
+- Motores / IDE / Herramientas: Unity, Visual Studio, VS Code, GitHub Desktop.  
+- Infraestructura / Utilidades: XAMPP, SQL Server, Ngrok, Vuforia, CheatEngine.  
+- Áreas: diseño de videojuegos, sistemas de inventario, UI/UX básica, integración RA.
+
+---
+
+## Propuestas de valor (qué aporto)
+- Prototipado rápido en Unity y pruebas en Android.  
+- Experiencia práctica en modding y arquitecturas cliente/servidor ligeras.  
+- Capacidad para llevar un proyecto desde idea hasta una demo jugable.
+
+---
+
+## Intereses
+Realidad Aumentada, gamificación, sistemas de tiempo dinámicos, juegos como Dota 2, Kenshi y Factorio. Promotor de actividad física.
+
+---
+
+## Idiomas
+- Inglés (funcional)  
+- Francés (básico)  
+- Japonés (básico)
+
+---
+
+## Cómo mejorar / siguientes pasos (recomendaciones rápidas)
+1. Añadir un enlace al portafolio o demos (APK, videos o página web).  
+2. Incluir una captura o GIF del juego para mostrar gameplay.  
+3. Añadir una sección "Disponibilidad" y "Redes / GitHub" con links directos.  
+4. Convertir este README en HTML/CSS si quieres un diseño visual más avanzado (puedo generar una versión HTML responsive y printable).
+
+---
+
+Si quieres, genero:
+- una versión HTML responsiva y con estilo (lista para subir como página o archivo local), o  
+- una versión en Markdown con una tarjeta de contacto y enlaces a demos/GitHub.
+
+Dime cuál prefieres y la adapto (puedo incluir foto, enlaces y ejemplo de tarjeta de contacto).
